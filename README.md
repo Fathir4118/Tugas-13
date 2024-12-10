@@ -154,3 +154,4 @@ if __name__ == "__main__":
 3. **Menampilkan Data Mahasiswa**:
    Program akan menampilkan daftar mahasiswa dan detail mahasiswa sesuai dengan yang diminta.
 
+https://github.com/Fathir4118/Tugas-13/blob/main/IMG-20241210-WA0001.jpg
